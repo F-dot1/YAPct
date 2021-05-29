@@ -1,21 +1,21 @@
 {"questions": [{
-	"text": "Question 1",
+	"text": "Should religion play a role in politics?",
 	"answers": [{
 		"text": "Strongly Agree",
-		"economy": -1,
-		"social": 0.5
+		"economy": 0,
+		"social": 1
 	}, {
 		"text": "Agree",
-		"economy": -0.5,
-		"social": 0	
-	}, {
-		"text": "Disagree",
 		"economy": 0,
 		"social": 0.5	
 	}, {
+		"text": "Disagree",
+		"economy": 0,
+		"social": -0.5	
+	}, {
 		"text": "Strongly Disagree",
-		"economy": 0.5,
-		"social": 1	
+		"economy": 0,
+		"social": -1
 	}]
 }, {
 	"text": "Question 2",
